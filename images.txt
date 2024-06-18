@@ -9,3 +9,12 @@ centos:centos7.9.2009
 centos:centos7.8.2003
 centos:centos7.7.1908
 centos:centos7.6.1810
+
+debian:bookworm
+debian:bullseye
+
+ubuntu:24.10
+ubuntu:23.10
+ubuntu:22.10
+
+
