@@ -21,6 +21,7 @@ mysql:8.0-debian
 mysql:5.7-debian
 
 nacos/nacos-server:v2.3.1
+nacos/nacos-server:v2.2.2
 
 foxiswho/rocketmq:server
 foxiswho/rocketmq:broker
