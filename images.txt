@@ -30,5 +30,17 @@ styletang/rocketmq-console-ng:1.0.0
 registry:2.8.2
 registry:2.6.2
 
+jenkins/jenkins:2.461-jdk21
+jenkins/jenkins:2.460-jdk17
+jenkins/jenkins:2.450-jdk17
+jenkins/jenkins:2.437-jdk11
+jenkins/jenkins:2.427-jdk11
+jenkins/jenkins:centos7-jdk11
+jenkins/jenkins:2.356-centos7-jdk8
+jenkins/jenkins:2.346-centos7-jdk8
+jenkins/jenkins:2.338-centos7-jdk8
+jenkins/jenkins:2.325-centos7-jdk8
+jenkins/jenkins:2.319-centos7-jdk8
+jenkins/jenkins:2.306-centos7-jdk8
 
 
