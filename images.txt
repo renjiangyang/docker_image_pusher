@@ -19,6 +19,8 @@ ubuntu:22.10
 
 mysql:8.0-debian
 mysql:5.7-debian
+devilbox/mysql:mysql-5.7
+
 
 nacos/nacos-server:v2.3.1
 nacos/nacos-server:v2.2.2
