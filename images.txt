@@ -56,7 +56,9 @@ gitlab/gitlab-ce:15.9.8-ce.0
 portainer/portainer-ce:2.20.0
 portainer/portainer-ce:2.16.2
 
-
+sonatype/nexus3:3.68.0
+sonatype/nexus3:3.24.0
+sonatype/nexus3:3.10.0
 
 
 
