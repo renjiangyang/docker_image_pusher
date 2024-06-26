@@ -60,6 +60,12 @@ sonatype/nexus3:3.68.0
 sonatype/nexus3:3.24.0
 sonatype/nexus3:3.10.0
 
+prom/prometheus:v2.52.0
+prom/prometheus:v2.47.0
+grafana/grafana:10.2.8
+grafana/grafana:9.5.20
+
+
 
 
 
