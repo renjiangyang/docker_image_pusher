@@ -64,7 +64,7 @@ prom/prometheus:v2.52.0
 prom/prometheus:v2.47.0
 grafana/grafana:10.2.8
 grafana/grafana:9.5.20
-
+grafana/grafana:9.4.0
 
 
 
