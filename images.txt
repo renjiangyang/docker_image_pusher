@@ -69,5 +69,8 @@ grafana/grafana:9.5.20
 grafana/grafana:9.4.0
 alanpeng/grafana-cn:v9.4.0
 
+bitnami/postgres-exporter:0.15.0
+
+
 
 
