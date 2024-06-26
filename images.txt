@@ -62,6 +62,8 @@ sonatype/nexus3:3.10.0
 
 prom/prometheus:v2.52.0
 prom/prometheus:v2.47.0
+prom/node-exporter:v1.6.0
+prom/node-exporter:v1.5.0
 grafana/grafana:10.2.8
 grafana/grafana:9.5.20
 grafana/grafana:9.4.0
