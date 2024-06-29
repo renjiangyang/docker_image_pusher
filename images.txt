@@ -1,3 +1,4 @@
+## demo ------------------------------------------------
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -5,41 +6,43 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+## os      ------------------------------------------------
+
+# centos 版本
 centos:centos7.9.2009
 centos:centos7.8.2003
 centos:centos7.7.1908
 centos:centos7.6.1810
 
+# debian 版本
 debian:bookworm
 debian:bullseye
 
+# ubuntu 非LTS 版本
 ubuntu:24.10
 ubuntu:23.10
 ubuntu:22.10
-ubuntu:22.04
 ubuntu:21.10
 ubuntu:20.10
 ubuntu:19.10
 ubuntu:18.10
 ubuntu:17.10
 ubuntu:16.10
+# ubuntu LTS 版本
+ubuntu:24.04
+ubuntu:23.04
+ubuntu:22.04
+ubuntu:21.04
+ubuntu:20.04
+ubuntu:19.04
+ubuntu:18.04
+ubuntu:17.04
+ubuntu:16.04
 
-
-mysql:8.0-debian
-mysql:5.7-debian
-devilbox/mysql:mysql-5.7
-cytopia/mysql-5.7:latest
-cytopia/mysql-8.0:latest
-
-
-
-
-nacos/nacos-server:v2.3.1
-nacos/nacos-server:v2.2.2
-
-foxiswho/rocketmq:server
-foxiswho/rocketmq:broker
-styletang/rocketmq-console-ng:1.0.0
+## cicd    ------------------------------------------------
+sonatype/nexus3:3.68.0
+sonatype/nexus3:3.24.0
+sonatype/nexus3:3.10.0
 
 registry:2.8.2
 registry:2.6.2
@@ -61,12 +64,7 @@ gitlab/gitlab-ce:17.1.0-ce.0
 gitlab/gitlab-ce:16.9.2-ce.0
 gitlab/gitlab-ce:15.9.8-ce.0
 
-portainer/portainer-ce:2.20.0
-portainer/portainer-ce:2.16.2
-
-sonatype/nexus3:3.68.0
-sonatype/nexus3:3.24.0
-sonatype/nexus3:3.10.0
+## monitor ------------------------------------------------
 
 prom/prometheus:v2.52.0
 prom/prometheus:v2.47.0
@@ -77,7 +75,39 @@ grafana/grafana:9.5.20
 grafana/grafana:9.4.0
 alanpeng/grafana-cn:v9.4.0
 
+portainer/portainer-ce:2.20.0
+portainer/portainer-ce:2.16.2
+
 bitnami/postgres-exporter:0.15.0
+
+## db      ------------------------------------------------
+
+mysql:8.0-debian
+mysql:5.7-debian
+devilbox/mysql:mysql-5.7
+cytopia/mysql-5.7:latest
+cytopia/mysql-8.0:latest
+
+## ap      ------------------------------------------------
+
+nacos/nacos-server:v2.3.1
+nacos/nacos-server:v2.2.2
+
+foxiswho/rocketmq:server
+foxiswho/rocketmq:broker
+styletang/rocketmq-console-ng:1.0.0
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
