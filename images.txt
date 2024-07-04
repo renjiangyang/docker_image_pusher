@@ -77,9 +77,11 @@ grafana/grafana:9.5.20
 grafana/grafana:9.4.0
 alanpeng/grafana-cn:v9.4.0
 
-portainer/portainer-ce:2.20.0
-portainer/portainer-ce:2.16.2
-6053537/portainer-ce:2.19.1
+# 社区
+portainer/portainer-ce:2.19.5
+# 汉化
+6053537/portainer-ce:2.19.5
+
 
 bitnami/postgres-exporter:0.15.0
 
