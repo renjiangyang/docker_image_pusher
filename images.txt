@@ -79,6 +79,7 @@ alanpeng/grafana-cn:v9.4.0
 
 portainer/portainer-ce:2.20.0
 portainer/portainer-ce:2.16.2
+6053537/portainer-ce:2.19.1
 
 bitnami/postgres-exporter:0.15.0
 
