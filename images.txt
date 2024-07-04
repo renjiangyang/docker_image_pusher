@@ -62,6 +62,11 @@ jenkins/jenkins:2.325-centos7-jdk8
 jenkins/jenkins:2.319-centos7-jdk8
 jenkins/jenkins:2.306-centos7-jdk8
 
+jenkins/jenkins:2.346.1-centos7
+jenkins/jenkins:2.346.1-centos7-jdk8
+
+
+
 gitlab/gitlab-ce:17.1.0-ce.0
 gitlab/gitlab-ce:16.9.2-ce.0
 gitlab/gitlab-ce:15.9.8-ce.0
