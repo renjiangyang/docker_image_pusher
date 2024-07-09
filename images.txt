@@ -98,6 +98,10 @@ devilbox/mysql:mysql-5.7
 cytopia/mysql-5.7:latest
 cytopia/mysql-8.0:latest
 
+jaspeen/oracle-11g
+
+
+
 ## ap      ------------------------------------------------
 
 nacos/nacos-server:v2.3.1
