@@ -9,94 +9,94 @@
 ## os      ------------------------------------------------
 
 # centos 版本
-centos:centos7.9.2009
-centos:centos7.8.2003
-centos:centos7.7.1908
-centos:centos7.6.1810
+#centos:centos7.9.2009
+#centos:centos7.8.2003
+#centos:centos7.7.1908
+#centos:centos7.6.1810
 
-# debian 版本
-debian:bookworm
-debian:bullseye
+## debian 版本
+#debian:bookworm
+#debian:bullseye
 
-# ubuntu 非LTS 版本
-ubuntu:24.10
-ubuntu:23.10
-ubuntu:22.10
-ubuntu:21.10
-ubuntu:20.10
-ubuntu:19.10
-ubuntu:18.10
-ubuntu:17.10
-ubuntu:16.10
-# ubuntu LTS 版本
-ubuntu:24.04
-ubuntu:23.04
-ubuntu:22.04
-ubuntu:21.04
-ubuntu:20.04
-ubuntu:19.04
-ubuntu:18.04
-ubuntu:17.04
-ubuntu:16.04
+## ubuntu 非LTS 版本
+#ubuntu:24.10
+#ubuntu:23.10
+#ubuntu:22.10
+#ubuntu:21.10
+#ubuntu:20.10
+#ubuntu:19.10
+#ubuntu:18.10
+#ubuntu:17.10
+#ubuntu:16.10
+## ubuntu LTS 版本
+#ubuntu:24.04
+#ubuntu:23.04
+#ubuntu:22.04
+#ubuntu:21.04
+#ubuntu:20.04
+#ubuntu:19.04
+#ubuntu:18.04
+#ubuntu:17.04
+#ubuntu:16.04
 
 ## cicd    ------------------------------------------------
-sonatype/nexus3:3.68.0
-sonatype/nexus3:3.24.0
-sonatype/nexus3:3.10.0
+#sonatype/nexus3:3.68.0
+#sonatype/nexus3:3.24.0
+#sonatype/nexus3:3.10.0
 
-registry:2.8.2
-registry:2.6.2
-konradkleine/docker-registry-frontend:v2
-
-
-jenkins/jenkins:2.461-jdk21
-jenkins/jenkins:2.460-jdk17
-jenkins/jenkins:2.450-jdk17
-jenkins/jenkins:2.437-jdk11
-jenkins/jenkins:2.427-jdk11
-jenkins/jenkins:centos7-jdk11
-jenkins/jenkins:2.356-centos7-jdk8
-jenkins/jenkins:2.346-centos7-jdk8
-jenkins/jenkins:2.338-centos7-jdk8
-jenkins/jenkins:2.325-centos7-jdk8
-jenkins/jenkins:2.319-centos7-jdk8
-jenkins/jenkins:2.306-centos7-jdk8
-
-jenkins/jenkins:2.346.1-centos7
-jenkins/jenkins:2.346.1-centos7-jdk8
+#registry:2.8.2
+#registry:2.6.2
+#konradkleine/docker-registry-frontend:v2
 
 
+#jenkins/jenkins:2.461-jdk21
+#jenkins/jenkins:2.460-jdk17
+#jenkins/jenkins:2.450-jdk17
+#jenkins/jenkins:2.437-jdk11
+#jenkins/jenkins:2.427-jdk11
+#jenkins/jenkins:centos7-jdk11
+#jenkins/jenkins:2.356-centos7-jdk8
+#jenkins/jenkins:2.346-centos7-jdk8
+#jenkins/jenkins:2.338-centos7-jdk8
+#jenkins/jenkins:2.325-centos7-jdk8
+#jenkins/jenkins:2.319-centos7-jdk8
+#jenkins/jenkins:2.306-centos7-jdk8
 
-gitlab/gitlab-ce:17.1.0-ce.0
-gitlab/gitlab-ce:16.9.2-ce.0
-gitlab/gitlab-ce:15.9.8-ce.0
+#jenkins/jenkins:2.346.1-centos7
+#jenkins/jenkins:2.346.1-centos7-jdk8
+
+
+
+#gitlab/gitlab-ce:17.1.0-ce.0
+#gitlab/gitlab-ce:16.9.2-ce.0
+#gitlab/gitlab-ce:15.9.8-ce.0
 
 ## monitor ------------------------------------------------
 
-prom/prometheus:v2.52.0
-prom/prometheus:v2.47.0
-prom/node-exporter:v1.6.0
-prom/node-exporter:v1.5.0
-grafana/grafana:10.2.8
-grafana/grafana:9.5.20
-grafana/grafana:9.4.0
-alanpeng/grafana-cn:v9.4.0
+#prom/prometheus:v2.52.0
+#prom/prometheus:v2.47.0
+#prom/node-exporter:v1.6.0
+#prom/node-exporter:v1.5.0
+#grafana/grafana:10.2.8
+#grafana/grafana:9.5.20
+#grafana/grafana:9.4.0
+#alanpeng/grafana-cn:v9.4.0
 
 # 社区
-portainer/portainer-ce:2.19.5
+#portainer/portainer-ce:2.19.5
 # 汉化
-6053537/portainer-ce:2.19.5
+#6053537/portainer-ce:2.19.5
 
 
-bitnami/postgres-exporter:0.15.0
+#bitnami/postgres-exporter:0.15.0
 
 ## db      ------------------------------------------------
 
-mysql:8.0-debian
-mysql:5.7-debian
-devilbox/mysql:mysql-5.7
-cytopia/mysql-5.7:latest
-cytopia/mysql-8.0:latest
+#mysql:8.0-debian
+#mysql:5.7-debian
+#devilbox/mysql:mysql-5.7
+#cytopia/mysql-5.7:latest
+#cytopia/mysql-8.0:latest
 
 
 
@@ -104,25 +104,9 @@ cytopia/mysql-8.0:latest
 
 ## ap      ------------------------------------------------
 
-nacos/nacos-server:v2.3.1
-nacos/nacos-server:v2.2.2
+#nacos/nacos-server:v2.3.1
+#nacos/nacos-server:v2.2.2
 
-foxiswho/rocketmq:server
-foxiswho/rocketmq:broker
-styletang/rocketmq-console-ng:1.0.0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#foxiswho/rocketmq:server
+#foxiswho/rocketmq:broker
+#styletang/rocketmq-console-ng:1.0.0
