@@ -99,6 +99,7 @@ cytopia/mysql-5.7:latest
 cytopia/mysql-8.0:latest
 
 jaspeen/oracle-11g
+container-registry.oracle.com/database/enterprise:19.3.0.0
 
 
 
