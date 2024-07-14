@@ -98,8 +98,8 @@
 #cytopia/mysql-5.7:latest
 #cytopia/mysql-8.0:latest
 
-container-registry.oracle.com/database/enterprise:21.3.0.0
 
+rayoortiguela/container-registry.oracle.com:latest
 
 
 ## ap      ------------------------------------------------
