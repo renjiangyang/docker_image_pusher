@@ -100,7 +100,8 @@
 
 
 #rayoortiguela/container-registry.oracle.com:latest
-container-registry.oracle.com/database/enterprise:21.3.0.0
+container-registry.oracle.com/database/enterprise:latest
+
 
 ## ap      ------------------------------------------------
 
