@@ -113,5 +113,5 @@ oracleinanutshell/oracle-xe-11g
 
 jumpserver/jms_all:v3.10.10
 
-# 
+# ollama
 docker pull ollama/ollama:0.4.0
