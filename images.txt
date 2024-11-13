@@ -116,11 +116,14 @@
 # ollama 
 #ollama/ollama:0.4.0
 
-#mongo:4.4.25
-#mongo:4.4.25-focal
-#mongo:5.0.25
-#mongo:5.0.25-focal
-mongo:6.0.19-jammy
-mongo:6.0.19
+# mongo:4.4.25
+# mongo:4.4.25-focal
+# mongo:5.0.25
+# mongo:5.0.25-focal
+# mongo:6.0.19
+# mongo:6.0.19-jammy
+mongo:7.0.15
+mongo:7.0.15-jammy
+
 
 
