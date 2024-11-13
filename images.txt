@@ -114,6 +114,6 @@
 #jumpserver/jms_all:v3.10.10
 
 # ollama 
-#docker pull ollama/ollama:0.4.0
+#ollama/ollama:0.4.0
 
-docker pull mongo:4.4.25
+mongo:4.4.25
