@@ -99,7 +99,7 @@
 #cytopia/mysql-8.0:latest
 
 
-oracleinanutshell/oracle-xe-11g
+#oracleinanutshell/oracle-xe-11g
 
 
 ## ap      ------------------------------------------------
@@ -111,7 +111,9 @@ oracleinanutshell/oracle-xe-11g
 #foxiswho/rocketmq:broker
 #styletang/rocketmq-console-ng:1.0.0
 
-jumpserver/jms_all:v3.10.10
+#jumpserver/jms_all:v3.10.10
 
 # ollama
-docker pull ollama/ollama:0.4.0
+#docker pull ollama/ollama:0.4.0
+
+docker pull mongo:4.4.25
