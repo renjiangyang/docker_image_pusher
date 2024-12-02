@@ -122,8 +122,10 @@
 # mongo:5.0.25-focal
 # mongo:6.0.19
 # mongo:6.0.19-jammy
-mongo:7.0.15
-mongo:7.0.15-jammy
+#mongo:7.0.15
+#mongo:7.0.15-jammy
 
+minio/minio:RELEASE.2022-06-20T23-13-45Z.fips
+minio/minio:RELEASE.2022-06-20T23-13-45Z
 
 
