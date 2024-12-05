@@ -129,5 +129,5 @@
 #minio/minio:RELEASE.2022-06-20T23-13-45Z
 
 
-prom/prometheus@sha256:1acb6bf0bc34a0285054d6a04e460e88907f8ea8c562c0837d7342b8683e65aa
+prom/prometheus@sha256:714bf2cef367
 
