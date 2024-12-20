@@ -129,6 +129,8 @@
 #minio/minio:RELEASE.2022-06-20T23-13-45Z
 #nacos/nacos-server:v2.0.3
 nacos/nacos-server:2.0.3-slim
+nacos/nacos-server:v2.0.4-slim
+
 
 
 #prom/node-exporter:v1.6.0@sha256:1acb6bf0bc34a0285054d6a04e460e88907f8ea8c562c0837d7342b8683e65aa
