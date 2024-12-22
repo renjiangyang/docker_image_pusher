@@ -128,8 +128,10 @@
 #minio/minio:RELEASE.2022-06-20T23-13-45Z.fips
 #minio/minio:RELEASE.2022-06-20T23-13-45Z
 #nacos/nacos-server:v2.0.3
-nacos/nacos-server:2.0.3-slim
-nacos/nacos-server:v2.0.4-slim
+#nacos/nacos-server:2.0.3-slim
+#nacos/nacos-server:v2.0.4-slim
+nacos/nacos-server:v2.0.4
+nacos/nacos-server:v2.2.3
 
 
 
