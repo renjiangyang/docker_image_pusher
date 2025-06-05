@@ -115,6 +115,7 @@
 
 # ollama 
 #ollama/ollama:0.4.0
+ollama/ollama:0.9.0
 
 # mongo:4.4.25
 # mongo:4.4.25-focal
