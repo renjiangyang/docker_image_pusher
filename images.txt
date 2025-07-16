@@ -134,9 +134,11 @@ ollama/ollama:0.9.0
 #nacos/nacos-server:v2.0.4
 #nacos/nacos-server:v2.2.3
 
-elasticsearch:7.4.2
-kibana:7.4.2
-logstash:7.4.2
+#elasticsearch:7.4.2
+#kibana:7.4.2
+#logstash:7.4.2
+
+apache/doris:build-env-for-2.1
 
 #prom/node-exporter:v1.6.0@sha256:1acb6bf0bc34a0285054d6a04e460e88907f8ea8c562c0837d7342b8683e65aa
 
