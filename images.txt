@@ -147,5 +147,10 @@ ollama/ollama:0.9.0
 
 #prom/node-exporter:v1.6.0@sha256:1acb6bf0bc34a0285054d6a04e460e88907f8ea8c562c0837d7342b8683e65aa
 
-apache/dolphinscheduler-standalone-server:3.2.0
+#apache/dolphinscheduler-standalone-server:3.2.0
+apache/dolphinscheduler-tools:3.2.0
+apache/dolphinscheduler-master:3.2.0
+apache/dolphinscheduler-worker:3.2.0
+apache/dolphinscheduler-api:3.2.0
+apache/dolphinscheduler-alert-server:3.2.0
 
