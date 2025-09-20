@@ -156,6 +156,7 @@ ollama/ollama:0.9.0
 
 #apache/flink:2.1.0-java17
 
-flannel/flannel:v0.27.3
-flannel/flannel-cni-plugin:v1.7.1-flannel1
+#flannel/flannel:v0.27.3
+#flannel/flannel-cni-plugin:v1.7.1-flannel1
+kindest/node:v1.34.0
 
