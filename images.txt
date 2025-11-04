@@ -173,5 +173,6 @@
 #alpine:3.21
 #alpine:3.22
 
-tonistiigi/binfmt:desktop-v10.0.4
+#tonistiigi/binfmt:desktop-v10.0.4
+tonistiigi/binfmt:latest
 
